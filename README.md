@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pradeep-manigilla
-- 👀 I’m interested in Tech
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning GitHub
 - 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me pradeepmanigilla31@gmail.com
