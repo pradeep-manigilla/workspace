@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pradeep-manigilla
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning GitHub
-- 💞️ I’m looking to collaborate on Software Development
-- 📫 How to reach me pradeepmanigilla31@gmail.com
+- 👀 I’m interested in UI Development
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on open projects
+- 📫 reach me at pradeepmanigilla31@gmail.com
 
 <!---
 pradeep-manigilla/pradeep-manigilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
